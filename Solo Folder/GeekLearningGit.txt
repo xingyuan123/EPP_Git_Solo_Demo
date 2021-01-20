@@ -1,4 +1,4 @@
-Version 2.0
+Version 2.01
 -----------
 
 Git, like most other version control software, works very well with all text based files, e.g. programming source code, html files, latex documents but has limited support for binary files, e.g. .jpg, .avi or .docx, .xlsx etc. So, keep that in mind when using git.
